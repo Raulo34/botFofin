@@ -8,7 +8,7 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['393248659288', 'nobody|']
+  ['393248659288', 'raul|']
 ]
 global.suittag = ['390371717717'] 
 global.prems = ['390371717717'] 
